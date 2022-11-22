@@ -2,7 +2,7 @@ import React from 'react'
 
 const loading = () => {
   return (
-    <div> Star Wars shit is loading...</div>
+    <div> back to the main bridge...</div>
   )
 }
 
